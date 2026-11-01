@@ -23,5 +23,5 @@ Hobby developer. Building things for fun and learning systems-level programming.
 - Twitter → [rusthatesmarty](https://twitter.com/rusthatesmarty)
 - Instagram → [rusthatesmarty](https://instagram.com/rusthatesmarty)
 - Discord → [MrUranium1](https://discord.com/users/1096716179785121842)
-- Email → hossainmehir2006@gmail.com
+- Email → mruranium@tutamail.com
 - Web → [mehir.is-a.dev](https://mehir.is-a.dev/)
