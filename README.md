@@ -13,7 +13,7 @@ Hobby developer. Building things for fun and learning systems-level programming.
 ---
 
 ### Contributed to
-- [Omarchy Plugin Marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
+- [Omarchy Plugin Marketplace](https://github.com/omacom/omarchy-plugin-marketplace) Plugins
 - [XERJ](https://github.com/xerj-org/xerj) — AI search engine
 
 ---
